@@ -1,0 +1,91 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 240, 224);
+    text-align: center;
+}
+
+.menu-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: rgb(183, 240, 199);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.menu-container h1 {
+    font-size: 24px;
+    margin-bottom: 60px;
+    color: #333;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.menu-button {
+    background-color: #C0C0C0;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.menu-button a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+.menu-button:hover {
+    background-color: lightslategrey;
+    transform: scale(1.05);
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.main-menu li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+.book-img {
+    width: 200px;
+    margin: 20px;
+  /*  animation: moveBook 2s infinite alternate;*/
+}
+
+
+/*@keyframes moveBook {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(100px);
+    }
+}*/
