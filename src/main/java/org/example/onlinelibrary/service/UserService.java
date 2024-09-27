@@ -19,6 +19,7 @@ public class UserService extends BaseService<User, UserRepository>{
     public int add(User user) {
         return repository.add(user);
     }
+
     public User signIn(String username, String password) {
         Optional<User> user = repository.signIn(username, password);
         return user.orElseThrow(() -> new RuntimeException("user not found"));

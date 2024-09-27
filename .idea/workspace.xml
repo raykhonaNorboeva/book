@@ -9,76 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c99d33ad-df39-4084-a64c-b2474929c7ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/controller/BookDownloadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/controller/BookSearchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/controller/BookUploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/controller/GetBooksController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/controller/UserBooksController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/exceptions/InvalidIInputException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/filters/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/model/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/model/Genre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/model/MyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/repository/BaseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/service/BaseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/service/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/utils/Beans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/7156419.a4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/Master-i-Margarita.pdf.crdownload" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/R-RASKOL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/dorian.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/garriPoter.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/books/graf.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/add-book.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/contribute.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/errors/error500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/find.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/get-all-books.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/main-menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/avtostopom.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/dorian.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/garriPoter.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/graff.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/iden.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/malchik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/martinnn.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/master.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pics/prestupleniye.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/show-user-books.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/sign-in.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/sign-up.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/vendetta.webp" afterDir="false" />
+    <list default="true" id="c99d33ad-df39-4084-a64c-b2474929c7ab" name="Changes" comment="book web">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/onlinelibrary/service/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +61,7 @@
     &quot;Tomcat Server.Tomcat 10.1.25.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/frontend/OnlineLibrary/src/main/webapp/js&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/frontend/OnlineLibrary&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -277,10 +210,52 @@
       <workItem from="1719936996284" duration="8692000" />
       <workItem from="1719976800767" duration="10522000" />
       <workItem from="1720066055327" duration="1416000" />
+      <workItem from="1720084375433" duration="315000" />
+      <workItem from="1720696910855" duration="1368000" />
+      <workItem from="1720755131699" duration="4991000" />
+      <workItem from="1720841853535" duration="1829000" />
+      <workItem from="1720845148687" duration="1484000" />
+      <workItem from="1721665861182" duration="110000" />
+      <workItem from="1721723393542" duration="1825000" />
+      <workItem from="1721794371120" duration="611000" />
+      <workItem from="1721819090378" duration="599000" />
+      <workItem from="1721842460776" duration="567000" />
+      <workItem from="1721920432465" duration="1013000" />
+      <workItem from="1721969491971" duration="388000" />
+      <workItem from="1721973383114" duration="8108000" />
+      <workItem from="1721999265236" duration="3428000" />
+      <workItem from="1722069381122" duration="1823000" />
+      <workItem from="1722156416671" duration="594000" />
+      <workItem from="1722170875077" duration="1829000" />
+      <workItem from="1722230503481" duration="594000" />
+      <workItem from="1722261901500" duration="1464000" />
+      <workItem from="1723445776203" duration="1194000" />
+      <workItem from="1723522302913" duration="1157000" />
+      <workItem from="1723550674442" duration="1780000" />
+      <workItem from="1723607141269" duration="32000" />
+      <workItem from="1723798650572" duration="27000" />
+      <workItem from="1724651999397" duration="9000" />
+      <workItem from="1724652181401" duration="386000" />
+      <workItem from="1724668290831" duration="595000" />
+      <workItem from="1724680022868" duration="476000" />
+      <workItem from="1724702401948" duration="784000" />
     </task>
+    <task id="LOCAL-00001" summary="book web">
+      <option name="closed" value="true" />
+      <created>1720084465138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720084465138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="book web" />
+    <option name="LAST_COMMIT_MESSAGE" value="book web" />
   </component>
 </project>
